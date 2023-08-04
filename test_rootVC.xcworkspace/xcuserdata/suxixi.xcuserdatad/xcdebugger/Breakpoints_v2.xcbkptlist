@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AEB3F0F6-CC8B-4962-A1B6-D42BE029F158"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ED7D129-DC26-4542-B829-57A2F6D9E596"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "251751C3-F6D3-4955-A59B-A8F0B6E63813"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "251751C3-F6D3-4955-A59B-A8F0B6E63813 - 553e5d66da939ba4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "251751C3-F6D3-4955-A59B-A8F0B6E63813 - 553e5d66da939ba4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4AC172D-E0AE-4609-882E-50E00FADD1A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAA0C0F6-C841-4679-82FF-76D2881C6123"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/SceneDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-scene:willConnectToSession:options:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAA0C0F6-C841-4679-82FF-76D2881C6123 - 1977e8cdbd04c0b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SceneDelegate scene:willConnectToSession:options:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/SceneDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "BAA0C0F6-C841-4679-82FF-76D2881C6123 - 1977e8cdbd04c095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SceneDelegate scene:willConnectToSession:options:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/SceneDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE92C2B7-536B-4846-97ED-087C39CB4747"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "-setupViews"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE92C2B7-536B-4846-97ED-087C39CB4747 - 930239696f95bed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController setupViews]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "EE92C2B7-536B-4846-97ED-087C39CB4747 - 930239696f95bed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController setupViews]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "EE92C2B7-536B-4846-97ED-087C39CB4747 - 930239696f95bed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController setupViews]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "711A3FA0-CA68-4F1F-B434-B7D89080B8AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "-setHandle:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "711A3FA0-CA68-4F1F-B434-B7D89080B8AE - a8e73d8744187bd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController setHandle:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "711A3FA0-CA68-4F1F-B434-B7D89080B8AE - a8e73d8744187bd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController setHandle:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC39DF11-84BA-4680-81B4-D963BBB613E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceDataHandler.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "-fetchJSONFromURL:completionHandler:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "271578EB-F6DE-4112-8013-BB2632EFC541"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "-fetchData"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "271578EB-F6DE-4112-8013-BB2632EFC541 - aebe4d81939ea838"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController fetchData]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "271578EB-F6DE-4112-8013-BB2632EFC541 - aebe4d81939eace4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController fetchData]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DCA42DC-6DFB-4B54-9160-346F695E299A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DCA42DC-6DFB-4B54-9160-346F695E299A - 553e5d66da939a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "4DCA42DC-6DFB-4B54-9160-346F695E299A - 553e5d66da939a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "4DCA42DC-6DFB-4B54-9160-346F695E299A - 553e5d66da9399f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F53809D-0B56-4BC5-8B18-A6627DF9152B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/AppDelegate.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F53809D-0B56-4BC5-8B18-A6627DF9152B - 553e5d66da939a66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8F53809D-0B56-4BC5-8B18-A6627DF9152B - 553e5d66da939a47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8F53809D-0B56-4BC5-8B18-A6627DF9152B - 553e5d66da9399f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/AppDelegate.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB1DC8AC-2881-4990-A53E-3699FBD92D51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-fetchData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11AFA2EF-2925-42DE-8152-EC3469BD73B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "-fetchData"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11AFA2EF-2925-42DE-8152-EC3469BD73B7 - 3bbd2bbbea5015f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[MagicFaceViewController fetchData]_block_invoke"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "11AFA2EF-2925-42DE-8152-EC3469BD73B7 - 3bbd2bbbea51aa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[MagicFaceViewController fetchData]_block_invoke"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61867BBD-9FFB-4893-BA4C-FB03A5DF6535"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "-fetchData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDBC6243-8F68-4FF7-B8DA-ED790BD8D2A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EE95AE5-6509-42D3-8B65-DED66091C526"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "-fetchData"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5EE95AE5-6509-42D3-8B65-DED66091C526 - d839a985b6b3e3b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MagicFaceViewController showToastWithMessage:]"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "5EE95AE5-6509-42D3-8B65-DED66091C526 - 411651c26569a1ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[MagicFaceViewController showToastWithMessage:]_block_invoke"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "5EE95AE5-6509-42D3-8B65-DED66091C526 - f050d342b9d0ad02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[MagicFaceViewController showToastWithMessage:]_block_invoke_2"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "5EE95AE5-6509-42D3-8B65-DED66091C526 - 5cd77e00b829f3e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__36-[MagicFaceViewController fetchData]_block_invoke_2"
+                  moduleName = "test_rootVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suxixi/Desktop/oc/ios-1/test_rootVC/test_rootVC/MagicFaceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32BB37BF-AB72-42DE-BA5B-6C1BE218FE07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "-setupViews"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAA575EB-5DEC-49EB-BAE8-3BFEFBE38680"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceCell.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-layoutSubviews"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C6E3241-4FF5-42BA-8F6A-01C5FCA3CE33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test_rootVC/MagicFaceCell.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
